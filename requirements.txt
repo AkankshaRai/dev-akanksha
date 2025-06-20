@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+streamlit
+openai
+langchain
+faiss-cpu
+PyPDF2
